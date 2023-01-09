@@ -87,7 +87,7 @@ history = model.fit(
 
 model.save("mobilenet_128.h5")
 
-print(len(model.layers))
+print('Layers :', len(model.layers))
 
 accuracy = model.evaluate(test_generator)
 print('Accuracy of the model on the test set: ', accuracy[1])
