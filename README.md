@@ -11,3 +11,7 @@ Training and Validation Accuracy Graph :
 Training and Validation Loss Graph :
 
 ![](assets/Figure_2.png)
+
+Entire Model Architecture as exported by [Netron Viewer](https://github.com/lutzroeder/netron) :
+
+![](assets/mobilenet_128.png)
